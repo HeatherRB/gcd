@@ -1,0 +1,1 @@
+Short Ruby code to find the greatest common divisor of two integers - see main file gcd.rb for details.
